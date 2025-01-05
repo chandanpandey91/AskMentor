@@ -16,7 +16,7 @@ const Header = () => {
         <h2 className='text-5xl sm:text-6xl md:text-[82px] inline-block max-w-3xl font-semibold pt-20'>Explore Domain that fit your dreams</h2>
         <div className='space-x-6 mt-16'>
             <a href="#Projects" className='border border-white px-8 py-3 rounded'>Domains</a>
-            <a href="#Contact" className='bg-blue-500 px-8 py-3 rounded'>Contact Us</a>
+            <a href="https://hyreai.vercel.app" className='bg-blue-500 px-8 py-3 rounded'>AI-Based Interview</a>
         </div>
       </motion.div>
     </div>
