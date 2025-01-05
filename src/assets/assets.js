@@ -80,7 +80,7 @@ export const projectsData = [
         image: profile_img_1,
         alt: "Portrait of Donald Jackman",
         rating: 5,
-        text: "From the very first meeting, they understood my vision and helped me find the perfect property. Their attention to detail and commitment to client satisfaction is unmatched."
+        text: "From the very first meeting, they understood my vision and helped me find the perfect tech. Their attention to detail and commitment to client satisfaction is unmatched."
     },
     {
         name: "Rakesh",
@@ -88,7 +88,7 @@ export const projectsData = [
         image: profile_img_2,
         alt: "Portrait of Richard Nelson",
         rating: 4,
-        text: "From the very first meeting, they understood my vision and helped me find the perfect property. Their attention to detail and commitment to client satisfaction is unmatched."
+        text: "From the very first meeting, they understood my vision and helped me find the perfect tech. Their attention to detail and commitment to client satisfaction is unmatched."
     },
     {
         name: "Hitesh",
@@ -96,6 +96,6 @@ export const projectsData = [
         image: profile_img_3,
         alt: "Portrait of James Washington",
         rating: 5,
-        text: "From the very first meeting, they understood my vision and helped me find the perfect property. Their attention to detail and commitment to client satisfaction is unmatched."
+        text: "From the very first meeting, they understood my vision and helped me find the perfect tech. Their attention to detail and commitment to client satisfaction is unmatched."
     }
 ];
