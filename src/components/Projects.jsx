@@ -59,6 +59,7 @@ const prevProject = ()=>{
         >
             {projectsData.map((project, index)=>(
                <div key={index} className='relative flex-shrink-0 w-full sm:w-1/4'>
+                 <a href="https://askmentor-dsa-resources.vercel.app/" target="_blank" rel="noopener noreferrer">
                 <img src={project.image} alt={project.title} className='w-full h-auto mb-14'/>
                 <div className='absolute left-0 right-0 bottom-5 flex justify-center'>
                     <div className='inline-block bg-white w-3/4 px-4 py-2 shadow-md'>
@@ -70,6 +71,7 @@ const prevProject = ()=>{
                         </p>
                     </div>
                 </div>
+                </a>
                </div> 
             ))}
         </div>
