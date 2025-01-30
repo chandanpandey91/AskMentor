@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 80" width="300" height="80">
+  <!-- Background -->
+  <rect width="300" height="80" rx="15" fill="#F9F9F9" />
+
+  <!-- Icon -->
+  <circle cx="50" cy="40" r="25" fill="#5C67F2" />
+  <text x="42" y="48" font-family="Arial, sans-serif" font-size="24" fill="#FFFFFF" font-weight="bold">?</text>
+
+  <!-- Text -->
+  <text x="90" y="50" font-family="Arial, sans-serif" font-size="30" fill="#333333" font-weight="bold">
+    Ask<tspan fill="#5C67F2">Mentor</tspan>
+  </text>
+</svg>
