@@ -13,8 +13,8 @@ const App = () => {
     <div className='w-full overflow-hidden'>
       <ToastContainer/>
       <Header/>
-      <About/>
       <Projects/>
+      <About/>
       <Testimonails/>
       <Contact/>
       <Footer/>
